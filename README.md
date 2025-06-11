@@ -3,9 +3,7 @@
 # 📘 Admin Guide: `vNextDiag2.ps1` — Get Office Activation Tool
 
 ## Overview
-
-The `vNextDiag2.ps1` PowerShell script is a diagnostic and license management tool for Microsoft 365 Apps. It is designed to:
-
+It is designed to:
 * Display Office license modes per product release
 * Show Shared Computer Licensing status
 * Reveal special policy configurations (Viewer Mode, Extended Offline Access, Unattended/RPA)
