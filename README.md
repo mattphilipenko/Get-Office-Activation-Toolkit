@@ -1,6 +1,4 @@
----
-
-# 📘 Admin Guide: `vNextDiag2.ps1` — Get Office Activation Tool
+# 📘 Admin Guide:Get Office Activation Tool
 
 ## Overview
 It is designed to:
