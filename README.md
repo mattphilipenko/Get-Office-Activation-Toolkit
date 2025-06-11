@@ -1,10 +1,10 @@
 ---
 
-# 📘 Admin Guide: `vNextDiag.ps1` — Get Office Activation Tool
+# 📘 Admin Guide: `vNextDiag2.ps1` — Get Office Activation Tool
 
 ## Overview
 
-The `vNextDiag.ps1` PowerShell script is a diagnostic and license management tool for Microsoft Office. It is designed to:
+The `vNextDiag2.ps1` PowerShell script is a diagnostic and license management tool for Microsoft 365 Apps. It is designed to:
 
 * Display Office license modes per product release
 * Show Shared Computer Licensing status
@@ -12,7 +12,7 @@ The `vNextDiag.ps1` PowerShell script is a diagnostic and license management too
 * List detailed licensing information per mode
 * Remove specific licenses by ID
 
-> ⚙️ **Version**: 1.0.0
+> ⚙️ **Version**: 1.1.0
 > 🖥️ **Supported Platforms**: Windows 7 and above (Office 2016 or later)
 
 ---
@@ -21,7 +21,7 @@ The `vNextDiag.ps1` PowerShell script is a diagnostic and license management too
 
 * Must be run with **appropriate permissions** (admin for machine-level registry access).
 * PowerShell 5.1+ recommended.
-* Microsoft Office installed (Click-to-Run supported).
+* Microsoft 365 Apps installed (Click-to-Run supported).
 
 ---
 
